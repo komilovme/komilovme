@@ -5,25 +5,25 @@
 
 ---
 
-## 🚀 About Me  
+## ​ About Me  
 💻 I’m a passionate **Developer** from Uzbekistan.  
 📚 Always learning new **technologies** and improving my **skills**.  
-🌱 Interested in **Web Development**, **AI** and **Open Source**.  
+🌱 Interested in **Web Development**, **AI**, and **Open Source**.  
 
 ---
 
-## 🛠️ Tech Stack  
+## ​​ Tech Stack  
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,ruby,html,css,js,ts,react,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,nodejs,mysql,postgresql" /><br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## ​ GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komilovme&show_icons=true&theme=tokyonight" height="165"/>
@@ -32,15 +32,15 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## ​ Portfolio  
 <p align="center">
-<img src="https://komilovme.vercel.app&theme=onedark&no-frame=true&margin-w=15" />
+  Check out my portfolio website:  
+  <a href="https://komilovme.vercel.app/"><strong>komilovme.vercel.app</strong></a>
 </p>
 
 ---
 
-## 🌐 Connect with me  
-
+##  Connect with me  
 <p align="center">
   <a href="https://t.me/komilovme"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:komilovme07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
