@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,nodejs,mysql,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,ruby,html,css,js,ts,react,mysql" /><br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
