@@ -34,7 +34,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=komilovme&theme=onedark&no-frame=true&margin-w=15" />
+<img src="https://komilovme.vercel.app&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---
