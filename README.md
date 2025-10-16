@@ -35,7 +35,7 @@
 ## ​ Portfolio  
 <p align="center">
   Check out my portfolio website:  
-  <a href="https://komilovme.vercel.app/"><strong>komilovme.vercel.app</strong></a>
+ <h1>SOON ....</h1>
 </p>
 
 ---
