@@ -35,7 +35,7 @@
 ## ​ Portfolio  
 <p align="center">
   Check out my portfolio website:  
- <h1>SOON ....</h1>
+ <a style="text-decration: none; font-weight: 600;" href="https://komilov.fun">komilov.fun</a>
 </p>
 
 ---
